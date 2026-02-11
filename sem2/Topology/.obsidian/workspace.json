@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d7e61695f1c185b1",
+    "id": "a5978490964d8d4d",
     "type": "split",
     "children": [
       {
-        "id": "d3772a5fb6335850",
+        "id": "5c906f409412247d",
         "type": "tabs",
         "children": [
           {
-            "id": "a5183a33a18bbb43",
+            "id": "1b77b4b86d1c2e32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Неопределённый интеграл функции на промежутке.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Неопределённый интеграл функции на промежутке"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e4df15f81e8ddf2",
+    "id": "d61ff9226a0781d5",
     "type": "split",
     "children": [
       {
-        "id": "91815907eeda06a8",
+        "id": "55fba31ab2c4abe3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9c5739fb0e33cc",
+            "id": "a738de26b8734e0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "d4b25afc38b80d04",
+            "id": "98a48ea9b4783a74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "8c9bddbc6c354888",
+            "id": "c5601f6fd53b78af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "27e32d9e61fceff4",
+    "id": "2d5dd81112c4f076",
     "type": "split",
     "children": [
       {
-        "id": "955ca293599a2813",
+        "id": "0cf66e9877d36cee",
         "type": "tabs",
         "children": [
           {
-            "id": "82e036b63446793c",
+            "id": "66e852a65166e313",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лемма 4.1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Лемма 4.1.1"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "48c949b0f60b17eb",
+            "id": "a1622abc9996c516",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лемма 4.1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лемма 4.1.1"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9cd0d07ff3b24bb5",
+            "id": "ad51d3f6a9662083",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "9db9b63b1efd7eed",
+            "id": "d2b51831e6677d8d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "4fc51653d2daff8e",
+            "id": "cd419e047f1b67cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лемма 4.1.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лемма 4.1.1"
+              "title": "Outline"
             }
           }
         ]
@@ -183,22 +176,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc9c5739fb0e33cc",
+  "active": "1b77b4b86d1c2e32",
   "lastOpenFiles": [
-    "Формула интегрирования по частям.md",
-    "Класс рациональных функций.md",
-    "Достаточное условие существования первообразной.md",
-    "Замена переменной в неопределённом интеграле.md",
-    "Описание первообразных функции на промежутке.md",
-    "Лемма 4.1.1.md",
-    "Максимальный промежуток.md",
-    "Первообразная функция на промежутке.md",
-    "Первообразная функции на множестве.md",
-    "Неопределённый интеграл функции на промежутке.md",
-    "Любая рациональная функция имеет элементарную первообразную.md",
-    "Линейность неопределённого интеграла.md",
-    "Определение.md",
-    "Теорема.md",
-    "Welcome.md"
+    "Теорема Эйлера на сфере.md",
+    "Формула Эйлера для многогранника.md",
+    "Теорема Эйлера (общая).md",
+    "Поверхность.md",
+    "Многогранник.md",
+    "Гомеоморфизм.md",
+    "Выпуклость.md"
   ]
 }
