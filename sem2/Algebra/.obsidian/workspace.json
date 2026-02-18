@@ -1,46 +1,71 @@
 {
   "main": {
-    "id": "d7e61695f1c185b1",
+    "id": "1388a55234527ca1",
     "type": "split",
     "children": [
       {
-        "id": "bc2ef61b167ced2d",
+        "id": "c4489359d88bcf28",
         "type": "tabs",
         "children": [
           {
-            "id": "bbebe36601d8e167",
+            "id": "7a0b13e645903f3f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8f7d0bab5b781ec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интегрируемость функции и её сужения.md",
+                "file": "Следствия ортонормированного бизиса.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интегрируемость функции и её сужения"
+              "title": "Следствия ортонормированного бизиса"
+            }
+          },
+          {
+            "id": "8ceb65aa79cd783d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорема об ортогонализации шмидта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теорема об ортогонализации шмидта"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1e4df15f81e8ddf2",
+    "id": "a17d288cf417edd6",
     "type": "split",
     "children": [
       {
-        "id": "91815907eeda06a8",
+        "id": "18748bed17ec502e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9c5739fb0e33cc",
+            "id": "11403e2fefc7519c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,24 +73,24 @@
             }
           },
           {
-            "id": "d4b25afc38b80d04",
+            "id": "a2ae465bcbfc0147",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "8c9bddbc6c354888",
+            "id": "cb48199efeb120ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +103,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "27e32d9e61fceff4",
+    "id": "ea23420a9d2867c7",
     "type": "split",
     "children": [
       {
-        "id": "955ca293599a2813",
+        "id": "f4ade2bd7da1fa84",
         "type": "tabs",
         "children": [
           {
-            "id": "82e036b63446793c",
+            "id": "71fe1c2d1f78b681",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интегрируемость функции и её сужения.md",
+                "file": "Теорема об ортогонализации шмидта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +129,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Интегрируемость функции и её сужения"
+              "title": "Backlinks for Теорема об ортогонализации шмидта"
             }
           },
           {
-            "id": "48c949b0f60b17eb",
+            "id": "2edaa86e2082875e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лемма 4.1.1.md",
+                "file": "Теорема об ортогонализации шмидта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лемма 4.1.1"
+              "title": "Outgoing links from Теорема об ортогонализации шмидта"
             }
           },
           {
-            "id": "9cd0d07ff3b24bb5",
+            "id": "0d36ba58bf53ce19",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,17 +162,7 @@
             }
           },
           {
-            "id": "1aacbff3f7fa0caf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9db9b63b1efd7eed",
+            "id": "a17c903f391036a3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,26 +176,26 @@
             }
           },
           {
-            "id": "4fc51653d2daff8e",
+            "id": "6449f22acfc20eee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лемма 4.1.1.md",
+                "file": "Теорема об ортогонализации шмидта.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лемма 4.1.1"
+              "title": "Outline of Теорема об ортогонализации шмидта"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,43 +208,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbebe36601d8e167",
+  "active": "8ceb65aa79cd783d",
   "lastOpenFiles": [
-    "Pasted image 20260212015538.png",
-    "Интегрируемость функции и её сужения.md",
-    "Pasted image 20260218171444.png",
-    "Pasted image 20260218172713.png",
-    "Pasted image 20260218175556.png",
-    "Pasted image 20260218181343.png",
-    "Pasted image 20260218195112.png",
-    "Pasted image 20260218200318.png",
-    "Pasted image 20260218201200.png",
-    "Pasted image 20260218201431.png",
-    "Pasted image 20260218203310.png",
-    "Pasted image 20260218201633.png",
-    "Арифметические действия над интегрируемыми функциями.md",
-    "Колебание функции.md",
-    "Критерий интегрируемости.md",
-    "Критерий Лебега интегрируемости функции по Риману.md",
-    "Интегрируемость монотонной функции.md",
-    "Интегрируемость непрерывной функции.md",
-    "Нулевая мера.md",
-    "Кусочно-непрерывная функция.md",
-    "Верхний и нижний интеграл Дарбу.md",
-    "Верхняя и нижняя суммы Дарбу.md",
-    "Ранг дробления.md",
-    "Предел интегральных сумм.md",
-    "Дробление.md",
-    "Интегрируемая функция по Риману.md",
-    "Класс интегрируемых на отрезке функций.md",
-    "Любая рациональная функция имеет элементарную первообразную.md",
-    "Свойство Дарбу 3.md",
-    "Определённый интеграл.md",
-    "Неопределённый интеграл функции на промежутке.md",
-    "Максимальный промежуток.md",
-    "Достаточное условие существования первообразной.md",
-    "Формула интегрирования по частям.md",
-    "Лемма 4.2.1.md",
-    "Оснащённое дробление.md"
+    "Интегрируемость функции и её сужения.pdf",
+    "Следствия ортонормированного бизиса.md",
+    "Теорема об ортогонализации шмидта.md",
+    "Норма.md",
+    "Ортогональность.md",
+    "Утверждение 1.md",
+    "Евклидово пространство.md",
+    "Ортонормированность.md",
+    "Нормированность.md"
   ]
 }
