@@ -11,10 +11,14 @@
             "id": "7a0b13e645903f3f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Матрица Грама.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица Грама"
             }
           },
           {
@@ -37,16 +41,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теорема об ортогонализации шмидта.md",
+                "file": "Матрица Грама.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Теорема об ортогонализации шмидта"
+              "title": "Матрица Грама"
+            }
+          },
+          {
+            "id": "74801a227096fb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матрица Грама.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица Грама"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -208,16 +225,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ceb65aa79cd783d",
+  "active": "7a0b13e645903f3f",
   "lastOpenFiles": [
-    "Интегрируемость функции и её сужения.pdf",
-    "Следствия ортонормированного бизиса.md",
+    "Неотрицательность определителя Грама.md",
+    "Матрица Грама.md",
+    "Pasted image 20260219151248.png",
+    "Определитель матрицы Грама.md",
+    "Pasted image 20260219151132.png",
+    "Pasted image 20260219151055.png",
+    "Матрица перехода.md",
     "Теорема об ортогонализации шмидта.md",
-    "Норма.md",
-    "Ортогональность.md",
-    "Утверждение 1.md",
     "Евклидово пространство.md",
+    "Следствия ортонормированного бизиса.md",
+    "Pasted image 20260219143518.png",
+    "Норма.md",
+    "Нормированность.md",
+    "Утверждение 1.md",
     "Ортонормированность.md",
-    "Нормированность.md"
+    "Ортогональность.md",
+    "Pasted image 20260219132648.png",
+    "Интегрируемость функции и её сужения.pdf"
   ]
 }

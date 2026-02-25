@@ -1,10 +1,7 @@
-#define f(X) (X*X*X - X*X + 5*X - 3)
-#define OUT(X) printf(#X)
+#define f(X) X*X*X - X*X + 5*X - 3
 #include <stdio.h>
-#include <stdlib.h>
-int main()
-{
-    int a = f(3);
-    printf(a);
-    _getchar_nolock();
+int main() {
+    int x = f(x);
+    printf("%d\n", x);
+    return 0;
 }

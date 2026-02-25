@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b77b4b86d1c2e32",
+            "id": "2064af4f11e4ac60",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Параграф 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Параграф 4"
+            }
+          },
+          {
+            "id": "346bc3aedf4d2460",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,14 +190,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b77b4b86d1c2e32",
+  "active": "2064af4f11e4ac60",
   "lastOpenFiles": [
-    "Теорема Эйлера на сфере.md",
-    "Формула Эйлера для многогранника.md",
+    "Параграф 3.md",
+    "Параграф 6.md",
+    "Параграф 5.md",
+    "Параграф 1.md",
+    "Параграф 4.md",
+    "Pasted image 20260226004623.png",
+    "Pasted image 20260226004601.png",
+    "Параграф 2.md",
+    "Параграф Введение.md",
     "Теорема Эйлера (общая).md",
     "Поверхность.md",
-    "Многогранник.md",
     "Гомеоморфизм.md",
-    "Выпуклость.md"
+    "Выпуклость.md",
+    "Метрическое пространство.md",
+    "Многогранник.md",
+    "Открытое множество.md",
+    "Теорема Эйлера на сфере.md",
+    "Формула Эйлера для многогранника.md"
   ]
 }
