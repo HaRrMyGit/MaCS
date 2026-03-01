@@ -121,7 +121,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -155,8 +155,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,8 +276,9 @@
   },
   "active": "e87b1fad8a3f7fd1",
   "lastOpenFiles": [
-    "Интегрирование по частям в определённом интеграле.md",
+    "Pasted image 20260301194656.png",
     "Замена переменной в определённом интеграле.md",
+    "Интегрирование по частям в определённом интеграле.md",
     "Pasted image 20260301231612.png",
     "Формула Ньютона-Лейбница.md",
     "Pasted image 20260301225408.png",
