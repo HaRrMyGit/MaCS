@@ -1,13 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define EVEN_MASK = strtoi("1010101010101010101010101010101010101010")
-#define EVEN_MASK = strtoi("0101010101010101010101010101010101010101") 
 #include <x86intrin.h>
 int main() {
-    int x, y = 1, result;
-    printf("Введите целое число: "); scanf("%d", &x);
-    x = (x & EVEN_MASK);
-    strtoi
-    return EXIT_SUCCESS;
+    int i, x;
+    printf("Введите число: "); scanf("%d", &i);
+    printf("%d", OnesInInt(i));
+}
+int OnesInInt(int i) {
+    int result;
+    result = ((i & 0xAAAAAAAA) >> 1) + (i & 0x55555555);
+    result = ((result & 0xCCCCCCCC) >> 2) + (result & 0x33333333);
+    result = ((result & 0xF0F0F0F0) >> 4) + (result & 0x0F0F0F0F);
+    result = ((result & 0xFF00FF00) >> 8) + (result & 0x00FF00FF);
+    result = ((result & 0xFFFF0000) >> 16) + (result & 0x0000FFFF);
+    return result;
 }
